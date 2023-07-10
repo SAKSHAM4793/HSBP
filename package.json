@@ -3,7 +3,7 @@
   "name": "bridal-detail-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SAKSHAM4793.github.io/HSBP",
+  "homepage": "https://SAKSHAM4793.github.io/HSBPproject",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
